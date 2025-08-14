@@ -1,0 +1,16 @@
+﻿[Label1]
+Coordinates=64,10,53,58
+
+[Panel1]
+Coordinates=10,78,55,36
+Visible=True
+
+[Edit1]
+Coordinates=10,10,44,58
+
+[Button1]
+Coordinates=127,10,59,58
+
+[]
+Coordinates=150,56,91,36
+
