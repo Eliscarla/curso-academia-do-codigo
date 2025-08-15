@@ -5,10 +5,13 @@
     <Transaction>2022/09/25 19:45:27.000.995,=C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/09/26 22:05:42.000.267,=C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2023/03/28 20:23:19.000.007,=C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/08/13 16:34:53.154,=C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/08/13 17:57:54.505,C:\Cursos\Academia do codigo\Unit1.pas=C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/08/13 17:57:54.506,C:\Cursos\Academia do codigo\Unit1.fmx=C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2025/08/13 17:58:06.491,C:\Cursos\Academia do codigo\Project2.dproj=C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
-  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
-  </ActiveMobileDevice>
+    <Transaction>2025/08/13 16:34:53.000.154,=C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/13 17:57:54.000.506,C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=C:\Cursos\Academia do codigo\Unit1.fmx</Transaction>
+    <Transaction>2025/08/13 17:57:54.000.505,C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Cursos\Academia do codigo\Unit1.pas</Transaction>
+    <Transaction>2025/08/13 17:58:06.000.491,C:\Users\ecs_e\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj=C:\Cursos\Academia do codigo\Project2.dproj</Transaction>
+    <Transaction>2025/08/15 11:01:59.021,=C:\Cursos\Academia do codigo\Unit2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
 </BorlandProject>
